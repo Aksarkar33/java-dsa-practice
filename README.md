@@ -2,7 +2,7 @@
 
 Tracking my DSA prep for backend developer roles - Java-focused, pattern-driven approach.
 
-## Progress: 14/100
+## Progress: 15/100
 
 | Pattern              | Solved | Target |
 |-----------------------|--------|--------|
