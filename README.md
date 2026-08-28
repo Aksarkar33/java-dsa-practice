@@ -13,7 +13,7 @@ Tracking my DSA prep for backend developer roles - Java-focused, pattern-driven 
 | Binary Search         | 1      | 10     |
 | Recursion/Backtracking| 3      | 10     |
 | Tree Traversal        | 1      | 15     |
-| Graphs                | 0      | 12     |
+| Graphs                | 1      | 12     |
 | Dynamic Programming   | 0      | 15     |
 | Stacks/Queues         | 0      | 6      |
 
