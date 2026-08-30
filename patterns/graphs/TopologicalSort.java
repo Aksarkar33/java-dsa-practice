@@ -41,8 +41,7 @@ public class TopologicalSort {
         return result;
     }
       public static void main(String[] args) {
-        // Example: course prerequisites
-        // 0 -> 1 means "0 must be done before 1"
+       
         addEdge(5, 2);
         addEdge(5, 0);
         addEdge(4, 0);
