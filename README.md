@@ -2,7 +2,7 @@
 
 Tracking my DSA prep for backend developer roles - Java-focused, pattern-driven approach.
 
-## Progress: 19/100
+## Progress: 20/100
 
 | Pattern              | Solved | Target |
 |-----------------------|--------|--------|
@@ -14,7 +14,7 @@ Tracking my DSA prep for backend developer roles - Java-focused, pattern-driven 
 | Recursion/Backtracking| 3      | 10     |
 | Tree Traversal        | 1      | 15     |
 | Graphs                | 4      | 12     |
-| Dynamic Programming   | 1      | 15     |
+| Dynamic Programming   | 2      | 15     |
 | Stacks/Queues         | 0      | 6      |
 
 See [notes/pattern-cheatsheet.md](notes/pattern-cheatsheet.md) for quick pattern-recognition notes before interviews.
