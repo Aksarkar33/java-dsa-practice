@@ -27,6 +27,6 @@ public class CoinChange {
         int[] coins = {1, 2, 5};
         int amount = 11;
         System.out.println("Min coins: " + coinChange(coins, amount));
-        // Expected: 3  (5 + 5 + 1 = 11)
+      
     }
 }
